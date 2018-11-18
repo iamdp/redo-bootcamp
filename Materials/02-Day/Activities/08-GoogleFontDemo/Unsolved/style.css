@@ -1,0 +1,13 @@
+/**
+ * Google Fonts Demo
+ **/
+
+/* Add in the Google Fonts of your choice */
+
+h1,
+h2,
+h3,
+h4,
+p {
+  font-family: 'Poppins', sans-serif;
+}
